@@ -1,0 +1,23 @@
+## 7 elementów skutecznego promptu
+
+1. **Kontekst**  
+   Wprowadzenie do sytuacji, tła lub roli modelu AI  
+   *(np. "Jesteś doradcą HR w dużej korporacji...")*
+2. **Cel odpowiedzi**  
+   Jasne określenie, czego oczekujemy od modelu  
+   *(np. "Wyjaśnij zasadę działania DNS")*
+3. **Format odpowiedzi**  
+   Wskazanie, jak odpowiedź ma być zaprezentowana  
+   *(np. "Zrób listę punktowaną", "Przedstaw w tabeli", "Wyjaśnij w markdown")*
+4. **Styl/ton wypowiedzi**  
+   Dostosowanie języka do odbiorcy  
+   *(np. "Napisz prostym językiem, jak do ucznia liceum")*
+5. **Ograniczenia i zakres**  
+   Ograniczenia długości, liczby przykładów, zakresu tematycznego  
+   *(np. "Nie przekraczaj 100 słów", "Podaj tylko 2 przykłady")*
+6. **Rola modelu AI (osobowość)**  
+   Nadanie AI osobowości lub perspektywy  
+   *(np. "Jesteś ekspertem ds. cyberbezpieczeństwa...")*
+7. **Warunki dodatkowe**  
+   Np. zakaz używania niektórych wyrażeń, użycie konkretnego języka  
+   *(np. "Nie używaj emoji", "Pisz tylko po angielsku")*
